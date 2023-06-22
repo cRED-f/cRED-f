@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Islam</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-- 🌱 I’m currently learning **React.Js and typescript**
+- 🌱 I’m currently learning **Next.Js and sanity.io**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cRED-f?tab=repositories](https://github.com/cRED-f?tab=repositories)
 
